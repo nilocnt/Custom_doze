@@ -1,4 +1,4 @@
-![logo](https://github.com/nilocnt/Custom_doze/assets/175128937/f734b87a-26ce-4291-8781-db4e230e5e78)
+             ![logo](https://github.com/nilocnt/Custom_doze/assets/175128937/d243b7e3-c75e-4a2f-a23a-2e796e9167e4)
 
 # Custom_doze
 Xiaomi Doze module for Android Ginkgo and others.
