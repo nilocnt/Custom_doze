@@ -25,7 +25,7 @@
 SKIPMOUNT=false
 
 # Set to true if you need to load system.prop
-PROPFILE=false
+PROPFILE=true
 
 # Set to true if you need post-fs-data script
 POSTFSDATA=false
@@ -123,7 +123,7 @@ REPLACE="
 
 print_modname() {
   ui_print "**********************************************"
-  ui_print "    CustomDoze & XiaomiDoze for lavender   "
+  ui_print "    Custom_Doze & Xiaomi_Doze for Ginkgo   "
   ui_print "**********************************************"
 }
 
