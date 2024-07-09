@@ -14,7 +14,7 @@ while [ `getprop vendor.post_boot.parsed` != "1" ]; do
 done
 
 # Apply settings
-sleep 90s
+sleep 30s
 
 
 # Disable Fsync
