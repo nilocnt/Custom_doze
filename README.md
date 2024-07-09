@@ -7,6 +7,6 @@ Xiaomi Doze module for Android Ginkgo and others.
 # Extras
 • Donations:
 
-• Source Code: GitHub
+• Source Code: [GitHub](https://github.com/nilocnt/Custom_doze)
 
 • Support Thread:
